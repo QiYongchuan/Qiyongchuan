@@ -16,10 +16,3 @@ Here are some ideas to get you started:
 -->
 welcome  to my page！
  
-- 🌱 I’m currently learning Vue 
-- 👯 I’m looking to collaborate on （mabye some interesting projects)
-- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: please in issue
-- 😄 
-- ⚡ 
