@@ -24,4 +24,4 @@ welcome  to my page！
 
  Maybe some day,some one visit here, just say: Hi,there ,welecome here!
 
-- 📫 How to reach me: (myblog)[https://qiyongchuan.github.io/hexopp/]
+- 📫 How to reach me: [myblog](https://qiyongchuan.github.io/hexopp/)
