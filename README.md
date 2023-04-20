@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 welcome  to my page！
 
-- 🌱 My name is Qi, i really don't know how to introduce myself:)
+🌱 My name is Qi, i really don't know how to introduce myself:)
 
--🔭 I don't know who can read these in futher,maybe nobody. I don't know what should i write in this.....
+🔭 I don't know who can read these in futher,maybe nobody. I don't know what should i write in this.....
 
-- 👯 So， I just see this note,this github space, and all my repositories as my traces in the internet.
+👯 So， I just see this note,this github space, and all my repositories as my traces in the internet.
 
--  Maybe some day,some one visit here, just say: Hi,there ,welecome here!
+ Maybe some day,some one visit here, just say: Hi,there ,welecome here!
 
-
+- 📫 How to reach me: (myblog)[https://qiyongchuan.github.io/hexopp/]
