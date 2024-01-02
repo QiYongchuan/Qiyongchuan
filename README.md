@@ -30,7 +30,7 @@ welcome  to my page！
  Maybe some day,some one visit here, just say: Hi,there ,welecome here!
 
 - 📫 How to reach me:
-- [GithubBlog](https://github.com/QiYongchuan/MyGitBlog)
+- [MyGitBlog](https://github.com/QiYongchuan/MyGitBlog)
 
 
 
