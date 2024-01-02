@@ -31,7 +31,7 @@ welcome  to my page！
 
 - 📫 How to reach me:
 - [GithubBlog](https://github.com/QiYongchuan/MyGitBlog)
-- [myblog](https://qiyongchuan.github.io/hexopp/)
+
 
 
 🌱 欢迎来到我的Github，但我不确定该用什么来准确的描述我:)
@@ -40,13 +40,21 @@ welcome  to my page！
 
 ⚡ by the way,喜欢村上春树（或许仅仅是喜欢 村上春树=林少华译？"true love":"not really love"），《百年孤独》倒是反反复复看了几遍，此外读的书不多，热爱老大哥（if 2+2=5），喜欢做有趣的事情，听B.B的歌,喜欢记录做项目的过程，于是写了很多到issue，也把issue当成了博客来写。（这有点不讲究？）
 
-🔭 代码水平不算高，前端不精通，Vue用的不算熟，目前在学习python，搞一个背单词的毕设。
+🔭 简单概述：
+*  **精通**C、java、JavaScript**的 Hello world**
+* 编程算是从前端入门的，系统学过Vue，以后有需要可能打算学React。
+* python能用，搞了一个基于openai的背单词的毕设系统，用python的flask做的后端。
+* 熟练掌握chatgpt的使用，大量使用经验。目前我俩协同编程，相处和谐。
+* 嵌入式玩过esp32
+* 目前发表过一篇中文期刊，拥有一项专利
 
+📫 更多更新在我的博客:
+- [MyGitBlog](https://github.com/QiYongchuan/MyGitBlog)
 
-- 📫 更多更新在博客:
-- [GithubBlog](https://github.com/QiYongchuan/MyGitBlog)
-- [myblog](https://qiyongchuan.github.io/hexopp/)
-
-- 😄 做过的简单网站H&P: （就是一些好看图片的堆叠和音乐的小bug）
+##### 一些好玩的东西：
+- 😄 做过的简单网站H&P: 
 [Hope&Love](https://qiyongchuan.github.io/Hope_Love/)
     倒是更喜欢我写的[issue](https://github.com/QiYongchuan/Hope_Love/issues/1#issue-1741285946),有种看小说中情节发展的感觉。
+- 用python写的命令行天气显示
+- esp32的住宅安防系统（后续打算将esp32与openai结合升级一下）
+- [用Github的issue结合action写博客](https://github.com/QiYongchuan/MyGitBlog)
