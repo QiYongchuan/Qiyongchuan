@@ -43,10 +43,10 @@ welcome  to my page！
 🔭 简单概述：
 *  **精通**C、java、JavaScript**的 Hello world**
 * 编程算是从前端入门的，系统学过Vue，以后有需要可能打算学React。
-* python能用，搞了一个基于openai的背单词的毕设系统，用python的flask做的后端。
+* python能用,做过好玩的是做了一个加密的日记本，搞了一个基于openai的背单词的毕设系统，用python的flask做的后端。
 * 熟练掌握chatgpt的使用，大量使用经验。目前我俩协同编程，相处和谐。
 * 嵌入式玩过esp32
-* 目前发表过一篇中文期刊，拥有一项专利
+* 目前发表过一篇中文期刊，拥有一项专利（这算是原来的植保专业的遗产了）
 
 📫 更多更新在我的博客:
 - [MyGitBlog](https://github.com/QiYongchuan/MyGitBlog)
@@ -58,3 +58,5 @@ welcome  to my page！
 - 用python写的命令行天气显示
 - esp32的住宅安防系统（后续打算将esp32与openai结合升级一下）
 - [用Github的issue结合action写博客](https://github.com/QiYongchuan/MyGitBlog)
+- JavaSE实训项目做的基于命令行的[商城系统](https://github.com/QiYongchuan/SimpleShop)
+- JavaEE 基于springboot的[在线书城](#)
