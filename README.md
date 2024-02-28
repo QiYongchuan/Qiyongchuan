@@ -60,3 +60,4 @@ welcome  to my page！
 - [用Github的issue结合action写博客](https://github.com/QiYongchuan/MyGitBlog)
 - JavaSE实训项目做的基于命令行的[商城系统](https://github.com/QiYongchuan/SimpleShop)
 - JavaEE 基于springboot的[在线书城](#)
+- Vue2做的可以markdown输入的[笔记本](https://github.com/QiYongchuan/notebook_vue)
