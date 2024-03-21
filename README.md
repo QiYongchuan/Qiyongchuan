@@ -52,9 +52,9 @@ welcome  to my page！
 - [MyGitBlog](https://github.com/QiYongchuan/MyGitBlog)
 
 ##### 一些好玩的东西：
-- 😄 做过的简单网站H&P: 
+- 😄 做过的简单网站H&P:
 [Hope&Love](https://qiyongchuan.github.io/Hope_Love/)
-    倒是更喜欢我写的[issue](https://github.com/QiYongchuan/Hope_Love/issues/1#issue-1741285946),有种看小说中情节发展的感觉。
+    开发详细记录在[issue](https://github.com/QiYongchuan/Hope_Love/issues/1#issue-1741285946)
 - 用python写的命令行天气显示
 - esp32的住宅安防系统（后续打算将esp32与openai结合升级一下）
 - [用Github的issue结合action写博客](https://github.com/QiYongchuan/MyGitBlog)
