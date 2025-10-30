@@ -50,8 +50,11 @@ welcome  to my page！
 
 📫 更多更新在我的博客:
 - [MyGitBlog](https://github.com/QiYongchuan/MyGitBlog)
-
+- 我的简单总结介绍：https://github.com/QiYongchuan/MyGitBlog/issues/136
 ##### 一些好玩的东西：
+- 基于笑容检测的哈基米大战黄瓜条游戏:
+   * 体验地址：👉https://who-smile-best.vercel.app/
+   * 开发经过:👉https://github.com/QiYongchuan/MyGitBlog/issues/135
 - 😄 做过的简单网站H&P:
 [Hope&Love](https://qiyongchuan.github.io/Hope_Love/)
     开发详细记录在[issue](https://github.com/QiYongchuan/Hope_Love/issues/1#issue-1741285946)
